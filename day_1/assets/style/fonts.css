@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Mons';
+    src: url(/day_1/assets/fonts/Montserrat/Montserrat-Medium.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Cormo';
+    src: url(/day_1/assets/fonts/Cormorant_Infant/CormorantInfant-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Cormo';
+    src: url(/day_1/assets/fonts/Cormorant_Infant/CormorantInfant-Light.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Cormo';
+    src: url(/day_1/assets/fonts/Cormorant_Infant/CormorantInfant-MediumItalic.ttf);
+    font-style: italic;
+    font-weight: 200;
+
+}
